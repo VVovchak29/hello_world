@@ -1,6 +1,6 @@
-from big_home_module.module_simple_calc import calc
+from folder.big_home_module.module_simple_calc import calc
 # from big_home_module.module_pro_calc import calc as pro_cack
-from big_home_module.module_functions import addition
+from folder.big_home_module.module_functions import addition
 
 
 # it is simple calc
